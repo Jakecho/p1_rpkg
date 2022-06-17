@@ -23,3 +23,15 @@ func1 <- function(x){
 # library(Rpkg1)
 # devtools::load_all()
 # usethis::use_git()
+
+# move to the project directory/folder created by "cd"
+# git init
+# git status
+# git add .
+# git commit -m "first commit"
+# git status
+# git remote add origin "address" from your git hub
+# git push -u origin master
+# create a folder for cloning
+# git clone "address" from the git hub project
+
